@@ -16,7 +16,7 @@ app.use("/", Routes)
 
 //Mongoose connection
 const uri =
-'mongodb+srv://shinesheray:SHINEshe1243@shinesheray-cluster-1.x8zvg.mongodb.net/'
+'<ADD DATABASE LINK TO CLUSTER HERE>'
 mongoose.Promise = global.Promise
 mongoose.connect(uri, {
   dbName: 'credential_management'

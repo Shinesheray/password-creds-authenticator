@@ -13,13 +13,10 @@ To start your local react and express servers, navigate to the backend and front
 ```
 npm start 
 ```
-a Browser windows should open where you can interact with the program !
-If the browser does not open type http://localhost:3000/ in your browser
-
 
 # What is This credential managment
 
-The programs is intended to be used internally by large companies with multiple departments and sub department to store company login credentials. With the use of JWT, users only have access to resources withing their department. There are 3 different types of users, namely regular users, managers and admins. Regular users can access and create credentials, managers can do all the above and edit credentials where admins can also assign user departments and permissions.
+A final bootcamp project where programs is intended to be used internally by large companies with multiple departments and sub department to store company login credentials. With the use of JWT, users only have access to resources withing their department. There are 3 different types of users, namely regular users, managers and admins. Regular users can access and create credentials, managers can do all the above and edit credentials where admins can also assign user departments and permissions.
 
 
 # Program limitations
